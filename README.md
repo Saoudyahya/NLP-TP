@@ -44,8 +44,8 @@ This TP uses the following tools and libraries:
 ## Steps to Run the TP 🏃‍♀️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fssm-nlp/agentic-rag-langgraphe.git
-   cd agentic-rag-langgraphe
+   git clone https://github.com/Saoudyahya/NLP-TP.git
+   cd NLP-TP
    ```
 
 2. Open the Jupyter Notebook:
@@ -53,7 +53,7 @@ This TP uses the following tools and libraries:
    jupyter notebook
    ```
 
-4. In Jupyter Notebook, click on **File** > **Copy Notebook** to create your personal editable version.
+3. In Jupyter Notebook, click on **File** > **Copy Notebook** to create your personal editable version.
 
 
 
