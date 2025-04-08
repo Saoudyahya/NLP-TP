@@ -39,13 +39,7 @@ This TP uses the following tools and libraries:
    - Combine Agentic RAG and LangGraphe to create an intelligent system.
    - Design a pipeline that retrieves information, represents it as a graph, and generates user-friendly outputs.
 
----
 
-## Dataset 📊
-- Use a publicly available dataset, such as **SQuAD**, **WikiQA**, or a custom dataset relevant to the TP theme.
-- Ensure the dataset includes a mix of structured and unstructured data for meaningful experimentation.
-
----
 
 ## Steps to Run the TP 🏃‍♀️
 1. Clone the repository:
@@ -72,15 +66,7 @@ This TP uses the following tools and libraries:
    - `3_langgraphe_basics.ipynb`
    - `4_combined_system.ipynb`
 
----
 
-## Evaluation Criteria 📝
-Students will be evaluated based on:
-- Completion of all notebook exercises.
-- Proper understanding of the theoretical aspects (quiz/test).
-- Implementation of a mini-project using Agentic RAG and LangGraphe.
-
----
 
 ## References 📚
 1. **Hugging Face Documentation:** https://huggingface.co/docs
