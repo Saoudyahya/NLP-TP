@@ -48,12 +48,7 @@ This TP uses the following tools and libraries:
    cd agentic-rag-langgraphe
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open the Jupyter Notebook:
+2. Open the Jupyter Notebook:
    ```bash
    jupyter notebook
    ```
