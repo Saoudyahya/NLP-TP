@@ -60,11 +60,7 @@ This TP uses the following tools and libraries:
 
 4. In Jupyter Notebook, click on **File** > **Copy Notebook** to create your personal editable version.
 
-5. Follow the notebook steps in the folder `notebooks/`:
-   - `1_introduction_to_rag.ipynb`
-   - `2_agentic_rag.ipynb`
-   - `3_langgraphe_basics.ipynb`
-   - `4_combined_system.ipynb`
+
 
 
 
