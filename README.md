@@ -61,8 +61,7 @@ This TP uses the following tools and libraries:
 
 ## References 📚
 1. **Hugging Face Documentation:** https://huggingface.co/docs
-2. **NetworkX Documentation:** https://networkx.org/documentation/stable
-3. **RAG Paper:** Lewis et al., Retrieval-Augmented Generation (2020)
+2. **RAG Paper:** https://arxiv.org/abs/2501.09136
 
 ---
 
@@ -89,9 +88,7 @@ Welcome to this practical project (TP) on advanced concepts in Natural Language 
 This TP uses the following tools and libraries:
 - **Python** (3.8 or higher)
 - **PyTorch** or **TensorFlow** for neural network implementation
-- **Hugging Face Transformers** for pre-trained language models
-- **NetworkX** for graph-based tasks
-- **Matplotlib** or **Plotly** for visualizations
+- **Hugging Face Transformers** for pre-trained language model
 - **Jupyter Notebook** for interactive coding sessions
 
 ---
@@ -142,7 +139,6 @@ OR
 
 ## References 📚
 1. **Hugging Face Documentation:** https://huggingface.co/docs
-
 3. **RAG Paper:** Lewis et al., Retrieval-Augmented Generation (2020)
 
 ---
